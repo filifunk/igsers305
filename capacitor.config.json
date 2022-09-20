@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "igersmia",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

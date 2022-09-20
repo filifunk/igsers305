@@ -1,0 +1,7 @@
+{
+  "name": "igersmia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
